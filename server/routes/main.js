@@ -113,7 +113,7 @@ router.post("/search",async(req,res)=>{
             ]
         });
         
-        res.render("search.ejs",{data,locals});
+        res.render("search.ejs",{data,locals,currentRoute:"/search"});
     }catch(err){
         console.log(err);
     }
