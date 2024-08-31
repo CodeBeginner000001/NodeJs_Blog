@@ -7,7 +7,7 @@ let path = require("path")
 let cookiesParser = require("cookie-parser");
 const session = require("express-session");
 const MongoStore = require("connect-mongo");
-const {isActiveRoute} = require("./server/helpers/routeHelpers")
+const {isActiveRoute} = require("./server/helpers/routeHelpers.js")
 
 const connectDB = require("./server/config/MongoDB.js")
 connectDB();
