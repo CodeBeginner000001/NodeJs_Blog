@@ -1,9 +1,7 @@
-Here's the updated README with the License section removed and more details added about how cookies and tokens play a role in the login page:
-
----
-
 # NodeJs Blog
-
+<p align= "center">
+    <img width="1440" alt="Screenshot 2024-08-31 at 9 29 03 PM" src="https://github.com/user-attachments/assets/627f33ac-3499-4f96-a565-306ccfa10ea4">
+</p>
 Welcome to the **NodeJs Blog** repository! This project is a simple yet powerful blogging platform built using Node.js, Express, MongoDB, and EJS. It allows users to create, view, edit, and manage blog posts. The platform also includes an admin dashboard for managing content and offers standard static pages like About and Contact.
 
 ## Table of Contents
@@ -17,7 +15,8 @@ Welcome to the **NodeJs Blog** repository! This project is a simple yet powerful
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Authentication](#authentication)
-7. [Contributing](#contributing)
+7. [Final View](#final-view)
+8. [Contributing](#contributing)
 
 ## Project Overview
 
@@ -116,6 +115,14 @@ The application employs a secure token-based authentication system that utilizes
 - **Login Process:** When an admin logs in, a token is generated and stored as a cookie in the admin's browser. This token authenticates the admin and grants access to the dashboard and other restricted functionalities.
 - **Session Management:** The token in the cookie is checked on each request to ensure that the user is authenticated. If the token is valid, the user is allowed access to admin features; if not, they are redirected to the login page.
 - **Security:** The use of tokens and cookies ensures that only authenticated users can manage the blog's content, adding an essential layer of security to the platform.
+
+## Final View
+<h4>
+    Latest Post Page
+</h4>
+<p align = "center">
+    <img width="1437" alt="Screenshot 2024-08-31 at 9 29 13 PM" src="https://github.com/user-attachments/assets/57a4baab-c17b-4212-91fc-e4cec272685f">
+</p>
 
 ## Contributing
 
