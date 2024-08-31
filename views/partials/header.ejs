@@ -1,0 +1,25 @@
+<header class="header">
+    <a href="/" class="header_logo">NodeJs</a>
+    <nav class="header_nav">
+        <ul>
+            <li>
+                <a href="/" class="<%=isActiveRoute('/',currentRoute)%>">Home</a>
+            </li>
+            <li>
+                <a href="/about" class="<%=isActiveRoute('/about',currentRoute)%>">About</a>
+            </li>
+            <li>
+                <a href="/contact" class="<%=isActiveRoute('/contact',currentRoute)%>">Contact</a>
+            </li>
+            <li>
+                <a href="/admin" class="<%=isActiveRoute('/admin',currentRoute)%>">Admin</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="header_button">
+        <button class="searchBtn" aria-expanded="false">
+            Search
+            <img src="/images/search.png" alt="search icon">
+        </button>
+    </div>
+</header>

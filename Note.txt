@@ -1,0 +1,22 @@
+This is Blog site that is created for learning Backend that contain
+--> Nodejs
+--> Express
+--> MongoDB
+--> EJS
+
+Dependies that are being used 
+--> npm i bcrypt
+--> npm i connect-mongo
+--> npm i cookie-parser
+--> npm i dotenv
+--> npm i ejs
+--> npm i express
+--> npm i express-ejs-layouts
+--> npm i express-session
+--> npm i jsonwebtoken
+--> npm i method-override
+--> npm i mongoose
+--> npm i nodemon --save-dev
+
+one command line :
+--> npm i bcrypt connect-mongo cookie-parser dotenv ejs express express-ejs-layouts express-session jsonwebtoken method-override mongoose
