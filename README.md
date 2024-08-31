@@ -2,7 +2,7 @@
 <p align= "center">
     <img width="1440" alt="Screenshot 2024-08-31 at 9 29 03 PM" src="https://github.com/user-attachments/assets/627f33ac-3499-4f96-a565-306ccfa10ea4">
 </p>
-Welcome to the **NodeJs Blog** repository! This project is a simple yet powerful blogging platform built using Node.js, Express, MongoDB, and EJS. It allows users to create, view, edit, and manage blog posts. The platform also includes an admin dashboard for managing content and offers standard static pages like About and Contact.
+Welcome to the <b>NodeJs Blog</b> repository! This project is a simple yet powerful blogging platform built using Node.js, Express, MongoDB, and EJS. It allows users to create, view, edit, and manage blog posts. The platform also includes an admin dashboard for managing content and offers standard static pages like About and Contact.
 
 ## Table of Contents
 
@@ -123,6 +123,50 @@ The application employs a secure token-based authentication system that utilizes
 <p align = "center">
     <img width="1437" alt="Screenshot 2024-08-31 at 9 29 13 PM" src="https://github.com/user-attachments/assets/57a4baab-c17b-4212-91fc-e4cec272685f">
 </p>
+<hr>
+<h4>
+    About Page
+</h4>
+<p align = "center">
+    <img width="1439" alt="Screenshot 2024-08-31 at 9 29 25 PM" src="https://github.com/user-attachments/assets/718b1c3d-2152-4390-be91-3bd7e65523ec">
+</p>
+<hr>
+<h4>
+    Contact Page
+</h4>
+<p align = "center">
+    <img width="1427" alt="Screenshot 2024-08-31 at 9 29 45 PM" src="https://github.com/user-attachments/assets/2302ea32-b034-4fbe-a855-3256aad85878">
+</p>
+<hr>
+<h4>
+    Admin Login Page
+</h4>
+<p align = "center">
+    <img width="1424" alt="Screenshot 2024-08-31 at 9 30 04 PM" src="https://github.com/user-attachments/assets/6840c4ab-8b6f-4c4f-a78b-b0539aa251f5">
+</p>
+<hr>
+<h4>
+    Admin Panel Page
+</h4>
+<p align = "center">
+    <img width="1291" alt="Screenshot 2024-08-31 at 9 30 26 PM" src="https://github.com/user-attachments/assets/16ff2997-49f4-42dc-900e-521a4f66b871">
+</p>
+<hr>
+<h4>
+    View/Edit Page
+</h4>
+<p align = "center">
+    <img width="1212" alt="Screenshot 2024-08-31 at 9 30 36 PM" src="https://github.com/user-attachments/assets/13acfda1-9f0d-4252-8f64-a43b74684b70">
+</p>
+<hr>
+<h4>
+    Add New Post Page
+</h4>
+<p align = "center">
+    <img width="1288" alt="Screenshot 2024-08-31 at 9 30 48 PM" src="https://github.com/user-attachments/assets/82110e26-a2c6-48fd-a083-9b0a5954b09e">
+</p>
+<hr>
+
 
 ## Contributing
 
